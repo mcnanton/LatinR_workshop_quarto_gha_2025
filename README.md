@@ -31,7 +31,7 @@ Un sitio Quarto publicado en GitHub Pages, alimentado de manera periódica y aut
 
 ## Materiales
 
-- 📊 Presentación: [link-placeholder]
+- 📊 Presentación: [LINK](https://mcnanton.github.io/LatinR_workshop_quarto_gha_2025/)
 
 ## Licencia
 
@@ -72,7 +72,7 @@ A Quarto site published on GitHub Pages, fed automatically and periodically from
 
 ## Materials
 
-- 📊 Slides: [link-placeholder]
+- 📊 Slides: [LINK](https://mcnanton.github.io/LatinR_workshop_quarto_gha_2025/)
 
 ## License
 
